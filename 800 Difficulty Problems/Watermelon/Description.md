@@ -12,4 +12,6 @@
    b. Otherwise, print "NO".
   
 ~Algorithm Used:
-Mathematical Checking: Instead of iterating or trying all possible divisions, the solution directly checks the mathematical condition in O(1) time complexity.
+Mathematical Checking: Instead of iterating or trying all possible divisions. 
+
+~Time Complexity: The solution directly checks the mathematical condition in O(1) time complexity.
