@@ -25,7 +25,8 @@ int main()
                 
                 if (minCost == singleCost) {
                     completed += n;
-                } else {
+                } 
+                else {
                     completed += m;
                 }
             }
@@ -34,7 +35,8 @@ int main()
                 
                 if (curCost == a) {
                     completed++;
-                } else {
+                }
+                else {
                     completed += m;
                 }
             }
